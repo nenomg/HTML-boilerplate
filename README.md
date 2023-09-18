@@ -1,6 +1,6 @@
 # HTML-boilerplate
 
-
+"""
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,3 +17,4 @@
     <!-- Add your JavaScript scripts here -->
 </body>
 </html>
+"""
